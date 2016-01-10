@@ -1588,9 +1588,9 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .container {
-    width: 750px;
+    width: 1182px;
   }
 }
 @media (min-width: 992px) {
@@ -2996,7 +2996,7 @@ select[multiple].input-lg {
     font-size: 18px;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .form-horizontal .form-group-sm .control-label {
     padding-top: 6px;
     font-size: 12px;
@@ -4194,9 +4194,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-collapse.in {
   overflow-y: auto;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-collapse {
-    width: auto;
+    width: 1200;
     border-top: 0;
     -webkit-box-shadow: none;
             box-shadow: none;
@@ -4318,7 +4318,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 4px;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .navbar-toggle {
     display: none;
   }
